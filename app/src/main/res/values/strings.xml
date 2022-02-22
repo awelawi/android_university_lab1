@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">NY Times Best Seller</string>
+    <string name="BOOK_RANK">RATING</string>
+    <string name="Book_desc">Book description</string>
+    <string name="Where_To_Buy">BUY</string>
+    <string name="Book_Cover">Book Cover</string>
 </resources>
